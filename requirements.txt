@@ -1,0 +1,4 @@
+mediapipe  
+opencv-python
+python-socketio[client] == 5.8.0
+pydantic == 1.10.7
